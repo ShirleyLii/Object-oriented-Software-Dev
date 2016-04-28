@@ -1,0 +1,10 @@
+Group Member:	PID		Netid
+Huaigu Xu	A49269154	xuhuaigu
+Yingfei Li	A47225481	liyingfe
+
+Contributions:
+Huaigu Xu:
+"Employee","Manager","SumsalaryVisitor", UML
+
+Yingfei Li:
+"Accept", "Group", "Deparment", "Visitor", "PrintVisitor".
